@@ -10,7 +10,7 @@ Most people ask AI to rewrite their resume and get back something that sounds po
 
 It runs a structured critique first, asks you targeted questions about your actual experience, and only then helps you rewrite. The focus of the MD is focused around one section at a time, with you in control. 
 
-I worked on manual resumes for hundreds of jobs, customizing, rewriting, adjusting, and trying again. I did the game of following 50 recruiters on linked in and reading all their posts to help structure my resume for "success" there are multiple repeated patterns that all recuriters follow this was the main "resource" used to build this tool. The unspoken truth about getting a job is both sides use Ai tools but there is a negative outlook when the applicant uses it and it's an accepted truth that recuriters have to use it.
+I worked on manual resumes for hundreds of jobs, customizing, rewriting, adjusting, and trying again. I did the game of following 50 recruiters on linked in and reading all their posts to help structure my resume for "success" there are multiple repeated patterns that all recruiters follow this was the main "resource" used to build this tool. The unspoken truth about getting a job is both sides use Ai tools but there is a negative outlook when the applicant uses it and it's an accepted truth that recruiters have to use it.
 
 
 > **The AI is the editor. You are the author. Your input is what makes this work.**
@@ -34,7 +34,7 @@ The tool follows a strict 4-step process and should not skip ahead:
 
 This tool is designed for **[Claude](https://claude.ai)** (claude.ai). It may function in other models but results are not guaranteed. I have tested it with Gemma 4 26B the results are similar if you want a completely free option.
 
-### Essy Setup — 4 steps
+### Easy Setup — 4 steps
 
 **1. Open [claude.ai](https://claude.ai) and start a new conversation**
 
@@ -55,7 +55,7 @@ That's it. The tool takes over from there.
 ## 🗂️ Recommended Setup — Use It as a Claude Project
 
 While you can paste the instructions into any Claude conversation, the best experience
-is setting it up as a **Claude Project**. This keeps your resumes critique in
+is setting it up as a **Claude Project**. This keeps each resumes critique in
 its own conversation, with the instructions always loaded in the background.
 The biggest benefit is that project memory builds over time. Simply put the more you use it,
 the less you have to re-explain your background, target roles, and preferences
